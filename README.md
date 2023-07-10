@@ -1,6 +1,6 @@
 # LumberJack bot – autoplaying bot
 
-This bot plays the LumberJack game (https://telegram.games/telegram-games/lumberjack/).
+This bot plays the LumberJack game (https://telegram.games/telegram-games/lumberjack/), found in Telegram.
 
 **It does it by going through a typical cycle:**
 1. making a part-screen screenshot
