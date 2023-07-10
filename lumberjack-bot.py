@@ -8,7 +8,7 @@ import os, sys
 from PIL import Image
 import random
 
-target_score = 200
+target_score = 300
 score = 0
 total_sequence_list = []
 j = 0
